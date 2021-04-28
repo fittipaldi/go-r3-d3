@@ -18,7 +18,13 @@ Switch to the repo folder
 You can run the go code as developing
     
     go run main.go
+    
+    
+# Testing
 
+You have to go to path `app/apiv1/controllersv1` and inside this folder you can run the command below
+
+    go test
 
 # Loading balance using Nginx
 
